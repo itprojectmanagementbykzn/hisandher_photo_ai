@@ -159,8 +159,8 @@ shared.gradio_root = gr.Blocks(
 with shared.gradio_root:
     gr.HTML("""
             <div style='text-align: center;'>
-                <a href='https://hisandher.online/wp-content/uploads/2025/04/logo_header.png' target='_blank'>
-                    <img src='https://hisandher.online/wp-content/uploads/2025/04/logo_header.png' alt='Logo' style='max-width: 70px; height: auto; cursor: pointer;'>
+                <a href='https://hisandher.online/wp-content/uploads/2025/05/logo_header.jpg' target='_blank'>
+                    <img src='https://hisandher.online/wp-content/uploads/2025/05/logo_header.jpg' alt='Logo' style='max-width: 70px; height: auto; cursor: pointer;'>
                 </a>
             </div>
         """)
